@@ -9,7 +9,6 @@ import {
   FaTasks,
   FaTelegramPlane,
   FaWhatsapp,
-  FaFacebookF,
 } from "react-icons/fa";
 import {
   MdCardGiftcard,
@@ -19,7 +18,6 @@ import {
   MdBusiness,
   MdGavel,
   MdHelp,
-  MdLiveTv,
   MdAssignment,
 } from "react-icons/md";
 
