@@ -63,7 +63,7 @@ export default function HomePage() {
     <div className="bg-gray-100 min-h-screen flex flex-col justify-between dark:bg-gray-900">
       <header className="bg-white dark:bg-gray-800 flex items-center justify-between px-6 py-4 shadow-md">
         <div className="flex items-center gap-4">
-          <img src="/logo.png" alt="Paicoo Logo" className="h-10" />
+          <img src="/logo.png" alt="Bitnex Logo" className="h-10" />
           <span className="text-xl font-bold text-gray-800 dark:text-white tracking-wide">BITNEXECOMMERCE</span>
         </div>
         <div className="flex gap-4 items-center">
@@ -121,7 +121,7 @@ export default function HomePage() {
           </div>
         </div>
       </section>
-
+      //video confarence
       <section className="px-4 pt-4 pb-6 bg-white dark:bg-gray-800 border-b dark:border-gray-700">
         <h3 className="text-lg font-bold text-gray-800 dark:text-white mb-3 text-center">🌐 Global Conference</h3>
         <div className="w-full rounded-xl overflow-hidden shadow-xl aspect-[16/9]">
@@ -131,7 +131,7 @@ export default function HomePage() {
           </video>
         </div>
         <p className="text-center text-sm text-gray-600 dark:text-gray-300 mt-3 leading-relaxed px-2">
-          Experience our international business conference—see how Paicoo is driving global innovation and success in the eCommerce space.
+          Experience our international business conference—see how Bitnex is driving global innovation and success in the eCommerce space.
         </p>
       </section>
 
